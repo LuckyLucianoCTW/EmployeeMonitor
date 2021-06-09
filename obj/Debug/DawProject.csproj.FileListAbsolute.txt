@@ -1,0 +1,182 @@
+C:\Users\windo\Desktop\daw\DawProject\bin\DawProject.dll.config
+C:\Users\windo\Desktop\daw\DawProject\bin\DawProject.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\DawProject.pdb
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\csc.exe
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\csc.exe.config
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\csc.rsp
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\csi.exe
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\csi.exe.config
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\csi.rsp
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.AppContext.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Console.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Net.Http.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\vbc.exe
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\vbc.exe.config
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\vbc.rsp
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\windo\Desktop\daw\DawProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\windo\Desktop\daw\DawProject\bin\Antlr3.Runtime.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\Newtonsoft.Json.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\System.Web.Helpers.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\System.Web.Mvc.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\System.Web.Optimization.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\System.Web.Razor.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\System.Web.WebPages.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\WebGrease.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\System.Web.Helpers.xml
+C:\Users\windo\Desktop\daw\DawProject\bin\System.Web.Mvc.xml
+C:\Users\windo\Desktop\daw\DawProject\bin\System.Web.Optimization.xml
+C:\Users\windo\Desktop\daw\DawProject\bin\System.Web.Razor.xml
+C:\Users\windo\Desktop\daw\DawProject\bin\System.Web.WebPages.xml
+C:\Users\windo\Desktop\daw\DawProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\windo\Desktop\daw\DawProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\windo\Desktop\daw\DawProject\bin\Newtonsoft.Json.xml
+C:\Users\windo\Desktop\daw\DawProject\bin\Antlr3.Runtime.pdb
+C:\Users\windo\Desktop\daw\DawProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\windo\Desktop\daw\DawProject\obj\Debug\DawProject.csprojAssemblyReference.cache
+C:\Users\windo\Desktop\daw\DawProject\obj\Debug\DawProject.csproj.CoreCompileInputs.cache
+C:\Users\windo\Desktop\daw\DawProject\obj\Debug\DawProject.csproj.CopyComplete
+C:\Users\windo\Desktop\daw\DawProject\obj\Debug\DawProject.dll
+C:\Users\windo\Desktop\daw\DawProject\obj\Debug\DawProject.pdb
+C:\Users\windo\Desktop\daw\DawProject\bin\EntityFramework.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\EntityFramework.SqlServer.dll
+C:\Users\windo\Desktop\daw\DawProject\bin\EntityFramework.xml
+C:\Users\windo\Desktop\daw\DawProject\bin\EntityFramework.SqlServer.xml
+C:\Users\windo\Desktop\daw\DawProject\obj\Debug\DawProject.Migrations.newRegister_Table.resources
+C:\Users\windo\Desktop\daw\DawProject\obj\Debug\DawProject.csproj.GenerateResource.cache
+C:\Users\windo\Desktop\daw\DawProject\obj\Debug\DawProject.Migrations.NewProjects.resources
+C:\Users\windo\Desktop\daw\DawProject\obj\Debug\DawProject.Migrations.New_Column_AssignedID.resources
+C:\Users\windo\Desktop\daw\DawProject\obj\Debug\DawProject.Migrations.Logs_Data_Table.resources
+C:\Users\windo\Desktop\daw\DawProject\obj\Debug\DawProject.Migrations.Role_Table.resources
+C:\Users\windo\Desktop\daw\DawProject\obj\Debug\DawProject.Migrations.Role_TableV2.resources
+C:\Users\windo\Desktop\daw\DawProject\obj\Debug\DawProject.Migrations.Role_TableV3.resources
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\DawProject.dll.config
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\DawProject.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\DawProject.pdb
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\csc.exe
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\csc.exe.config
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\csc.rsp
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\csi.exe
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\csi.exe.config
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\csi.rsp
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.AppContext.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Console.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Net.Http.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\vbc.exe
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\vbc.exe.config
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\vbc.rsp
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\Antlr3.Runtime.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\EntityFramework.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\EntityFramework.SqlServer.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\Newtonsoft.Json.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\System.Web.Helpers.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\System.Web.Mvc.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\System.Web.Optimization.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\System.Web.Razor.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\System.Web.WebPages.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\WebGrease.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\EntityFramework.xml
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\EntityFramework.SqlServer.xml
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\System.Web.Helpers.xml
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\System.Web.Mvc.xml
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\System.Web.Optimization.xml
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\System.Web.Razor.xml
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\System.Web.WebPages.xml
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\Newtonsoft.Json.xml
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\Antlr3.Runtime.pdb
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\obj\Debug\DawProject.csprojAssemblyReference.cache
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\obj\Debug\DawProject.Migrations.newRegister_Table.resources
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\obj\Debug\DawProject.Migrations.NewProjects.resources
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\obj\Debug\DawProject.Migrations.New_Column_AssignedID.resources
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\obj\Debug\DawProject.Migrations.Logs_Data_Table.resources
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\obj\Debug\DawProject.Migrations.Role_Table.resources
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\obj\Debug\DawProject.Migrations.Role_TableV2.resources
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\obj\Debug\DawProject.Migrations.Role_TableV3.resources
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\obj\Debug\DawProject.csproj.GenerateResource.cache
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\obj\Debug\DawProject.csproj.CoreCompileInputs.cache
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\obj\Debug\DawProject.csproj.CopyComplete
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\obj\Debug\DawProject.dll
+C:\Users\windo\Desktop\even more shits\More More Shits\even_more_shits\daw\DawProject\obj\Debug\DawProject.pdb

@@ -1,0 +1,30 @@
+﻿@using DawProject.Models
+@{
+    var projectList = ViewData["myProjectList"] as List<Projects>;
+    var CurrentDate = DateTime.Now; 
+    <div class="border1">
+        <a href="#AssignedProj" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle" id="aRef">Assigned Projects</a>
+    </div>
+    <ul class="collapse list-unstyled" id="AssignedProj">
+        @{
+            foreach (var project in projectList)
+            {
+                <div class="col-md-4 col-lg-10 col-xs-6 col-sm-4">
+                    @Html.Label("Project_Name", "Project Name : " + project.ProjectName) 
+                    <br />
+                    @if (CurrentDate > project.EndDate)
+                    {
+                        @Html.Label("Project_Status", "Project Status : Expired", new { @class = "text-danger" }) 
+                    }
+                    else
+                    {
+                        @Html.Label("Project_Status", "Project Status : Active", new { @class = "text-info" })
+                        <br />
+                        <p>Expiring Date : @project.EndDate</p>
+                    }
+                    <p></p>
+                </div> 
+            }
+          }
+    </ul>
+}

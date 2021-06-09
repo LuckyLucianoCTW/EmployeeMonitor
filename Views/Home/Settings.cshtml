@@ -1,0 +1,61 @@
+﻿@model DawProject.Models.ChangePassword
+
+
+@using (Html.BeginForm())
+{
+    if (Session["Email"] == null || Session["ID"] == null || Session["Password"] == null || Session["FullName"] == null || Session["BDate"] == null)
+    {
+        <h1>Trebuie sa te loghezi/inregistrezi mai intai!</h1>
+    }
+    else
+    {
+        <div class="wrapper">
+            @Html.Partial("_SideBar")
+            <div id="content">
+                <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                    <div class="container-fluid">
+
+                        <div class="form-group">
+                            @Html.LabelFor(x => x.Password, new { @class = "control-label col-md-4" })
+                            <div class="col-md-5">
+                                @Html.PasswordFor(x => x.Password, new { @class = "form-control" })
+                                @Html.ValidationMessageFor(x => x.Password, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <br />
+                        <div class="form-group">
+                            @Html.LabelFor(x => x.ConfirmPassword, new { @class = "control-label col-md-4" })
+                            <div class="col-md-5">
+                                @Html.PasswordFor(x => x.ConfirmPassword, new { @class = "form-control" })
+                                @Html.ValidationMessageFor(x => x.ConfirmPassword, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <br />
+                        <div class="form-group">
+                            <div class="col-md-1">
+                                <input type="submit" value="Change Password" class="btn btn-primary" />
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+    }
+
+}
+<style>
+    .form-group
+    {
+        padding-top: 2px;
+    }
+    .wrapper {
+        display: flex;
+        width: 100%;
+        align-items: stretch;
+        text-align: center;
+    }
+    #content {
+        padding-top: 20px;
+    }
+</style>

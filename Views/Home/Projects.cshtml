@@ -1,0 +1,85 @@
+﻿@model DawProject.Models.Projects
+@{
+    ViewBag.Title = "Projects";
+} 
+@using (Html.BeginForm())
+{
+    if (Session["Email"] == null || Session["ID"] == null || Session["Password"] == null || Session["FullName"] == null || Session["BDate"] == null)
+    {
+        <h1>Trebuie sa te loghezi/inregistrezi mai intai!</h1>
+    }
+    else
+    {
+        <body>
+            <div class="wrapper">
+                @Html.Partial("_SideBar")
+                <div id="content">
+                    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                        <div class="container-fluid">
+                            @if (Session["Role"].ToString().Contains("Administrator"))
+                            {
+                                @Html.Partial("_CreateProject")
+                            }
+                            @if (Session["Role"].ToString().Contains("Administrator") || Session["Role"].ToString().Contains("Project Manager"))
+                            {
+                                @Html.Partial("_AssignProject")
+                                @Html.Partial("_RemoveAssignedProject")
+                            }
+                            @Html.Partial("_MyProjects")
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </body>
+    }
+
+}
+<style>
+    #aRef:hover {
+        background: inherit;
+    }
+
+    #aRef {
+        background: #6d7fcc;
+        font-size: 30px;
+    }
+
+    #pageSubmenu {
+        padding-top: 3%;
+        padding-bottom: 5%;
+    }
+    #assignProject {
+        padding-top: 3%;
+        padding-bottom: 5%;
+    }
+    #AssignedProj {
+        padding-top: 3%;
+        padding-bottom: 5%;
+    }
+    #RemoveAssignProject 
+    {
+        padding-top: 3%;
+        padding-bottom: 5%;
+    }
+    .border1 {
+        text-align: center;
+        background: #6d7fcc;
+        min-width: 500px;
+        max-width: 500px;
+    }
+
+    .wrapper {
+        display: flex;
+        width: 100%;
+        align-items: stretch;
+        text-align: center;
+    }
+
+    #description {
+        padding-left: 2%;
+    }
+
+    #content {
+        padding-top: 20px;
+    }
+</style>
